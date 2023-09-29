@@ -1,0 +1,21 @@
+{
+  "name": "@viktoryiavysotskaya/package-idgenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Viktoryia-Vysotskaya/Package-IdGenerator"
+  },
+  "author": "@Viktoryia-Vysotskaya",
+  "keywords": [
+    "random",
+    "ID",
+    "generator",
+    "string",
+    "letters",
+    "numbers",
+    "alphanumeric",
+    "utility"
+  ]
+}
